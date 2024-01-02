@@ -2,6 +2,8 @@
 
 In order to develop an usable and responsive graphics interface for Geographic Information System (GIS), we propose the implementation of  a standardized and intuitive interface that displays map information in a hierarchical way by multi-layered displays, fixed pin marker, movable and collapsible operator panel. The integration of these characteristics and testing of performance and functionality into our maps enhances the appeal and accessibility of our GIS interface. In the short video below, we show a demo of our project.
 
+This project was written in C++ for the back-end and implemented in glade for the front-end.
+
 https://github.com/wang2653/ece297---Better-Park-Map/assets/96502661/8cd2cc95-2192-438b-8bc3-e4b037598d4b
 
 ## Here are the opening slide of our final presentation:
